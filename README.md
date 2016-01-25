@@ -18,7 +18,7 @@ When the template is installed, it will create a DRL Theme Manager.swift
 - If you are using Alcatraz, you should be able to download it from there.
 - If you aren't using Alcatraz, just type the commands below in terminal.
 
-  $ git clone https://github.com/freesuraj/SwiftTemplate.git
+  $ git clone https://github.com/durul/DRL-Theme-Manager.git
   $ cd DRL Theme Manager
   $ ./install-templates.sh
 
@@ -39,4 +39,4 @@ When the template is installed, it will create a DRL Theme Manager.swift
 Xcode Licensed Templates is available under the The BSD 3-Clause License. Check the LICENSE file for more info.
 
 ## Image
-![ScreenShot](https://raw.githubusercontent.com/durul/DRL-Theme-Manager/master/Screenshot.png)
+![ScreenShot](https://cloud.githubusercontent.com/assets/1297785/12564269/53fa8a64-c37c-11e5-8a75-49def6d174e8.png)
