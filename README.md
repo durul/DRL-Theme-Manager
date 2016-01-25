@@ -37,3 +37,6 @@ When the template is installed, it will create a DRL Theme Manager.swift
 ## License
 
 Xcode Licensed Templates is available under the The BSD 3-Clause License. Check the LICENSE file for more info.
+
+## Image
+![ScreenShot](https://raw.githubusercontent.com/durul/DRL-Theme-Manager/master/Screenshot.png)
