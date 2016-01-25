@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllowedTypes</key>
+	<array>
+		<string>public.swift-source</string>
+	</array>
+	<key>DefaultCompletionName</key>
+	<string>DRL Theme Manager</string>
+	<key>Description</key>
+	<string>Generates a Theme.swift file for custom design and theme managemenet</string>
+	<key>Kind</key>
+	<string>Xcode.IDEKit.TextSubstitutionFileTemplateKind</string>
+	<key>MainTemplateFiles</key>
+	<array>
+		<string>___FILEBASENAME___theme.swift</string>
+	</array>
+	<key>Options</key>
+	<array>
+		<dict>
+			<key>Default</key>
+			<string>Swift</string>
+			<key>Description</key>
+			<string>Swift Theme Manager</string>
+			<key>Identifier</key>
+			<string>templateFile</string>
+			<key>Name</key>
+			<string>TemplateFile</string>
+			<key>Required</key>
+			<true/>
+			<key>Type</key>
+			<string>static</string>
+		</dict>
+	</array>
+	<key>Platforms</key>
+	<array>
+		<string>com.apple.platform.iphoneos</string>
+	</array>
+	<key>Summary</key>
+	<string>DRL Swift Theme Templates, DRL Theme Templates</string>
+</dict>
+</plist>
