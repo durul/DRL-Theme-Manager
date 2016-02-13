@@ -42,3 +42,10 @@ Xcode Licensed Templates is available under the The BSD 3-Clause License. Check 
 
 ## Image
 ![ScreenShot](https://cloud.githubusercontent.com/assets/1297785/12564269/53fa8a64-c37c-11e5-8a75-49def6d174e8.png)
+
+## Contribution
+- If you'd like to contribute please submit a pull request via GitHub.
+
+Like DRL Theme Manager? Get us a coffee ;-)
+
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/duruld/25)
