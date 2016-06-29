@@ -36,6 +36,15 @@ When the template is installed, it will create a DRL Theme Manager.swift
 
   $ sudo chmod 755 uninstall-templates.sh
 
+## Asset Credits
+-------------------------------------------------
+
+Linkedin: http://www.linkedin.com/pub/durul-dalkanat/58/48a/b2a
+
+Twitter: https://www.twitter.com/duruldalkanat
+
+Blog: http://dumobility.tumblr.com/
+
 ## License
 
 The MIT License (MIT)
@@ -57,4 +66,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 Like DRL Theme Manager? Get us a coffee ;-)
 
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/duruld/25)
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/DurulDalkanat)
