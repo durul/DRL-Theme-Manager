@@ -9,7 +9,7 @@ When the template is installed, it will create a DRL Theme Manager.swift
 ## Installation & Usage
 
 - Clone this repo.
-- Copy the contents of the "DRL Theme Manager" directory of this repository into `/Library/Developer/Xcode/Templates/Application/File Templates`.
+- Copy the contents of the "DRL Theme Manager" directory of this repository into `/Library/Developer/Xcode/Templates/File Templates`.
 - Relaunch Xcode and select "File > New File", or use the `⌘N` keyboard shortcut.
 - Select the "DRL Theme Manager" category, then select the "DRL Theme Manager" file, and hit "Next".
 - Select the license that you wish to use, and hit "Next".
