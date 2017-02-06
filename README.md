@@ -36,20 +36,26 @@ When the template is installed, it will create a DRL Theme Manager.swift
 
   $ sudo chmod 755 uninstall-templates.sh
 
+## Requirements
+-------------------------------------------------
+Xcode 8.2.1
+
+Swift 3.0 +
+
+Deployment Target = iOS 9.1
+
+Base SDK = iOS 10.1
+
 ## Asset Credits
 -------------------------------------------------
 
-Linkedin: http://www.linkedin.com/pub/durul-dalkanat/58/48a/b2a
-
-Twitter: https://www.twitter.com/duruldalkanat
-
-Blog: http://dumobility.tumblr.com/
+Portfolio: http://durul.github.io
 
 ## License
 
 The MIT License (MIT)
 
-Copyright (c) 2015 Durul Dalkanat
+Copyright (c) 2017 Durul Dalkanat
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
