@@ -15,8 +15,7 @@ When the template is installed, it will create a DRL Theme Manager.swift
 - Select the license that you wish to use, and hit "Next".
 
 ------------------------
-- If you are using Alcatraz, you should be able to download it from there.
-- If you aren't using Alcatraz, just type the commands below in terminal.
+- Just type the commands below in terminal.
 
   $ git clone https://github.com/durul/DRL-Theme-Manager.git
 
@@ -48,6 +47,9 @@ Base SDK = iOS 10.1
 ## Asset Credits
 
 Portfolio: http://durul.github.io
+
+## Support
+Twitter: https://www.twitter.com/duruldalkanat
 
 ## License
 

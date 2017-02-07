@@ -1,1 +1,2 @@
-*.rb linguist-language=Swift
+*.py linguist-language=Swift
+*.sh linguist-language=Swift
