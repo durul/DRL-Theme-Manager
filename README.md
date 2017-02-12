@@ -6,7 +6,7 @@ DRL Theme Manager is an Xcode Swift File Template for Generating maximum require
 When the template is installed, it will create a DRL Theme Manager.swift
 
 
-## Installation & Usage
+## Installation
 
 - Clone this repo.
 - Copy the contents of the "DRL Theme Manager" directory of this repository into `/Library/Developer/Xcode/Templates/File Templates`.
@@ -26,6 +26,25 @@ When the template is installed, it will create a DRL Theme Manager.swift
 - If you got a permission denied error while executing the script file, give it an execution permission.
 
   $ sudo chmod 755 install-templates.sh
+  
+## Usage
+
+    func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
+        
+        let theme = ThemeManager.currentTheme()
+        ThemeManager.applyTheme(theme: theme)
+        // Override point for customization after application launch.
+        return true
+    }
+    
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+    
+
+        view.backgroundColor = ThemeManager.currentTheme().backgroundColor
+        tableView.separatorColor = ThemeManager.currentTheme().secondaryColor
+    }
+
 
 ## Uninstall
 
